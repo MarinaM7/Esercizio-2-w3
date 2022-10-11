@@ -1,0 +1,22 @@
+body {
+    background-color: #806e57;
+    color: beige;
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h1 {
+    text-shadow: 3px 3px 3px #5b2121;
+}
+
+code {
+    color: #cccc61;
+    font-size: larger;
+}
+
+p {
+    color: #5b2121;
+    font-weight: bold;
+}
